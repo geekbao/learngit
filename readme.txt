@@ -9,3 +9,4 @@ Creating a new branch is quick and simple!!
 >>>>>>> dev
 test-1
 test-2
+test-3
